@@ -1,0 +1,4 @@
+# Created at 2019-12-19T12:19:06.936
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Healthcare\Gmail\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
